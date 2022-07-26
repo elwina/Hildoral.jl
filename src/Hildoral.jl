@@ -1,5 +1,5 @@
 module Hildoral
 
-# Write your package code here.
+include("classify/Classify.jl")
 
 end
